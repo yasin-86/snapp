@@ -4,13 +4,13 @@
   }
   .mobile {
     width: 100%;
-    height: 14vh;
+    height: 10vh;
     display: flex;
     align-items: center;
     padding: 10px;
   }
   header {
-    height: 14vh;
+    height: 10vh;
     width: 100%;
   }
   ul{
@@ -20,9 +20,9 @@
   }
   .container {
     width: 100%;
-    height: 60vh;
+    height: 45vh;
     position: relative;
-    top: 14vh;
+    top: 10vh;
   }
   .left-part {
     display: none;
@@ -56,7 +56,7 @@
     width: 100%;
     height: 50px;
     border: none;
-    color: #000000;
+    color: #000000cc;
     background-color: #fff;
     border-radius: 5px;
     position: absolute;
@@ -78,7 +78,7 @@
     gap: 50px;
     padding: 20px;
     position: relative;
-    top: 60vh;
+    top: 45vh;
   }
   .super-app h2 {
     font-size: 22px;
