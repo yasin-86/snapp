@@ -100,6 +100,9 @@ a {
   position: relative;
   top: -60px;
 }
+.mobile{
+  display: none;
+}
 input[type="number"] {
   background-color: transparent;
   border: none;
