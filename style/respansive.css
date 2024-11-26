@@ -102,8 +102,7 @@
     line-height: 18px;
     font-family: light;
   }
-}
-.card p{
+  .card p{
     display: none;
 }
 .card h3{
@@ -113,3 +112,5 @@
     width: 45px;
     height: 45px;
 }
+}
+
